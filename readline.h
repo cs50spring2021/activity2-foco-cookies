@@ -29,4 +29,3 @@
  */
 extern bool readLine(char * buf, const int len);
 
-#endif //  __READLINE_H__
